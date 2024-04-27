@@ -1,4 +1,4 @@
-# TIC_TAC_TOE game in C.
+# TIC_TAC_TOE game in C
 <h1>Gameplay</h1>
 <ul>
 <li>The game is played on a 3x3 grid.</li>
